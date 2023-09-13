@@ -14,7 +14,6 @@ p {
     font-family:Times Regular;
     color:rgb(239, 255, 13);
     text-align: center;
-    blu
 }
 
 img {
@@ -163,7 +162,7 @@ text-align: center;
 
 #r1 {
     text-align:center;
-    padding-left:30px;
+    padding-left:3px;
     border-style:solid;
     border-color:black;
     border-width:1px;
@@ -174,14 +173,12 @@ text-align: center;
 }
     
 #r2 {
-    padding-left:5%;
+    padding-left:1%;
 }
 
 .row {
     width: auto;
     padding-top:0%;
-    margin-left:0%;
-    margin-right:0%;
     margin-bottom:1%;   
 }
 }
