@@ -1,0 +1,187 @@
+
+
+body {
+    background-color:#d4e4f1;
+    margin:1%;
+}
+
+
+p {
+    
+    font-size:100%;
+    line-height:120%;
+    padding-top:0%;
+    font-family:Times Regular;
+    color:rgb(239, 255, 13);
+    text-align: center;
+    blu
+}
+
+img {
+
+width: 100%;
+height: 100%;
+float: left; 
+max-width: 800px;
+border-width: 5px;
+padding-top:0px;
+padding-bottom:3%;
+}
+
+
+@media (max-width: 800px) {
+
+html{
+    height:100%;
+    width:100%;
+        
+
+}
+    
+ .row {
+    padding-top:5%;
+    width: auto;
+    height:50%;
+    margin-top:0%; 
+    margin-bottom:4%;
+  }
+    
+h2
+{
+    color:Black;
+    font-family:Times;
+    font-size:120%;
+    line-height: 250%;
+    text-align: center;
+}
+
+h3
+{
+    color:Black;
+    font-family:Times;
+    font-size:95%;
+    line-height: 130%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:3%;
+    
+}
+    
+h4
+{
+    color:Black;
+    font-family:Times;
+    font-size:95%;
+    line-height: 130%;
+    margin-left:0%;
+    margin-right:0%;
+    margin-bottom:3%;
+    text-align: center;
+    
+}
+
+#r1 {
+    text-align:center;
+    padding-left:0px;
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+    border-radius: 60px;
+    width:auto;
+    height:50px;
+    margin-bottom:20px;
+}
+    
+#r2 {
+    padding-left:0%;
+}
+
+
+.row {
+    width: auto;
+    padding-top:5%;
+    margin-bottom:2%;   
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 800px) {
+    
+    
+    
+button {
+    color:transparent;
+    background-color: transparent;
+    border-style: none;
+}
+    
+html{
+    height:88%;
+    width:98.7%;
+}
+
+p {
+    
+    font-size:100%;
+    line-height:120%;
+    padding-top:0%;
+    font-family:Times Regular;
+    color:rgb(239, 255, 13);
+}
+    
+.row {
+    padding-top:1%;
+    width:auto;
+    height:50%;
+    margin-top:2%; 
+    margin-bottom:4%;
+  }
+#due {
+    border-radius:110%;
+    }
+    
+h2
+{
+    color:rgb(239, 255, 13);
+    font-family:Times;
+    font-size:120%;
+    line-height: 250%;
+text-align: center;
+}
+
+
+
+#r1 {
+    text-align:center;
+    padding-left:30px;
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+    border-radius: 60px;
+    width:auto;
+    height:50px;
+    margin-bottom:20px;
+}
+    
+#r2 {
+    padding-left:5%;
+}
+
+.row {
+    width: auto;
+    padding-top:0%;
+    margin-left:0%;
+    margin-right:0%;
+    margin-bottom:1%;   
+}
+}
